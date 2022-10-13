@@ -1,2 +1,2 @@
 # LeetCodeChallengeJava
-all leetcode challenge i done
+all leetcode challenges i done.
